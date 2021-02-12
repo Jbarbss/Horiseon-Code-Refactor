@@ -9,7 +9,7 @@ For the CSS, I consolidated all of the selectors and properties and made them fo
 all files have been uploaded to the github repository(see link below) and the application has been deployed to a live url using github pages (see link below)
 The application should load with no issues or errors.
 
-[refactored website demo] assets/demo-horiseon-website.jpg
+![refactored website demo](assets/demo-horiseon-website.jpg)
 
 [github pages site] https://jbarbss.github.io/Horiseon-Code-Refactor/
 
