@@ -15,17 +15,17 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Changed .header tags to header to correspond with <header> tag on html */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Changed .header tags to header to correspond with <header> tag on html */
 header h1 .seo {
     color: #d9dcd6;
 }
-
-/* Changed all div tags to nav to correspond with <nav> tags on Html */
+/* Changed .header tags to header to correspond with <header> tag on html */
+/* Changed div tags to nav to correspond with <nav> tags on Html */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,11 +33,13 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Changed .header tags to header to correspond with <header> tag on html */
+/* Changed div tags to nav to correspond with <nav> tags on Html */
 header nav ul {
     list-style-type: none;
 }
-
+/* Changed  .header tags to header to correspond with <header> tag on html */
+/* Changed  div tags to nav to correspond with <nav> tags on Html */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -61,15 +63,12 @@ p {
     background-position: center;
 }
 
+/* removed .float-right to correspond with class change to float-left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 .content {
     width: 75%;
@@ -133,7 +132,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Changed .footer tag to footer to correspond with <footer> tag on html */
 footer {
     padding: 30px;
     clear: both;
@@ -142,6 +141,6 @@ footer {
 }
 
 /* Changed .footer tag to footer to correspond with <footer> tag on html */
- footer h2 {
+footer h2 {
     font-size: 20px;
 }
